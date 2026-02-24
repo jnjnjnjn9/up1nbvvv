@@ -201,7 +201,7 @@ const SlotReel = ({
                className="w-full rounded-xl mb-6 shadow-glow"
              />
              <a 
-              href="https://up2-kappa.vercel.app/"
+              href="https://igamingpt2zip.vercel.app/"
                className="btn-resgate inline-block w-full"
              >
                🎉 RESGATAR PRÊMIO
