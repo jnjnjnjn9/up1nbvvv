@@ -201,7 +201,7 @@ const SlotReel = ({
                className="w-full rounded-xl mb-6 shadow-glow"
              />
              <a 
-              href="https://igamingpt2zip.vercel.app/"
+              href="https://happy-pix-transfer.lovable.app"
                className="btn-resgate inline-block w-full"
              >
                🎉 RESGATAR PRÊMIO
